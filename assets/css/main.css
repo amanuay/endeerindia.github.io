@@ -4385,3 +4385,9 @@ body.is-preload #header .image img {
 
   background: #F2B705;
 }
+
+.photo-card{
+  background-position: center; background-size: cover;
+  border-radius: 32px;
+  height: 100%;
+}
