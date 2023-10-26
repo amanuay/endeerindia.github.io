@@ -6,6 +6,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
 html,
 body,
 div,
@@ -4342,7 +4343,7 @@ body.is-preload #header .image img {
 }
 
 #header {
-  border-radius: 16px;
+  border-radius: 32px;
 
 }
 
@@ -4391,4 +4392,16 @@ body.is-preload #header .image img {
   background-size: cover;
   border-radius: 32px;
   height: 100%;
+}
+
+#button {
+  border-radius: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+#navbutton {
+  border-radius: 16px;
 }
