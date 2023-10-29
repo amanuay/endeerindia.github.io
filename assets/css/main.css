@@ -4362,9 +4362,10 @@ body.is-preload #header .image img {
   line-height: 1.35em;
 }
 
-.panel img{
+.panel img {
   border-radius: 32px;
 }
+
 #one .panel {
   background-color: #2D5C9A;
   color: #ffffff;
